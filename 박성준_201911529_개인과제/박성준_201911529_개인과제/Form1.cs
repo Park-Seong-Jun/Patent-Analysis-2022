@@ -20,30 +20,14 @@ namespace 박성준_201911529_개인과제
         public Form1()
         {
             InitializeComponent();
-            form1 = this;
-        }
-
-        class PatentFileList
-        {
-            private string abstractFilePath = "patent data/abstract.json";
-            private string applicantFilePath = "patent data/applicantt.json";
-            private string bibliosummaryFilePath = "patent data/bibliosummary.json";
-            private string inventorFilePath = "patent data/inventor.json";
-            private string ipcFilePath = "patent data/ipc.json";
-
-            public string AbstractFilePath { get => abstractFilePath; set => abstractFilePath = value; }
-            public string ApplicantFilePath { get => applicantFilePath; set => applicantFilePath = value; }
-            public string BibliosummaryFilePath { get => bibliosummaryFilePath; set => bibliosummaryFilePath = value; }
-            public string InventorFilePath { get => inventorFilePath; set => inventorFilePath = value; }
-            public string IpcFilePath { get => ipcFilePath; set => ipcFilePath = value; }
-
             
         }
+
+        
 
         private void btnPatentLoading_Click(object sender, EventArgs e)
         {
-            PatentFileList patentFileList = new PatentFileList();
-            
+                    
 
             
             if (!File.Exists("patentCSV/abstract.csv"))

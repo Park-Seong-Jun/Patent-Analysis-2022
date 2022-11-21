@@ -125,19 +125,8 @@ namespace 박성준_201911529_개인과제
 
             }
 
-            FileStream fs = File.OpenWrite("patentCSV/abstract.csv");
-            StreamWriter writer = new StreamWriter(fs,Encoding.UTF8);
 
-            for (int j = 0; j < 10; j++)
-            {
-                writer.WriteLine(record[j]);
-                Form1.form1.patentInfoLoadingList.Text = j + "번쨰 데이터 입력완료";
-                
-                System.Threading.Thread.Sleep(1000);
-            }
-            writer.Close();
-
-            MessageBox.Show("파일이 생성되었습니다");
+            
 
 
           

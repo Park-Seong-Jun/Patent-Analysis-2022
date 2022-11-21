@@ -20,3 +20,12 @@ C:\Users\pasuj\source\repos\박성준_201911529_개인과제\박성준_201911529
 C:\Users\pasuj\source\repos\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.exe
 C:\Users\pasuj\source\repos\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.pdb
 C:\Users\pasuj\source\repos\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.Form1.resources
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.csproj.AssemblyReference.cache
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.exe.config
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.Form1.resources
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.Properties.Resources.resources
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.csproj.GenerateResource.cache
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.csproj.CoreCompileInputs.cache
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.exe
+C:\Users\pasuj\OneDrive\바탕 화면\컴퓨터프로그래밍2\개인과제\Patent-Analysis-2022\박성준_201911529_개인과제\박성준_201911529_개인과제\obj\Debug\박성준_201911529_개인과제.pdb

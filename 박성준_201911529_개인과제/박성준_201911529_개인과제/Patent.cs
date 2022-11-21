@@ -11,6 +11,12 @@ namespace 박성준_201911529_개인과제
         private string patentId;
         private string patentAbstrtCont;
 
+        
+      
+        
+            
+        
+
         public Patent(string patentId)
         {
             this.patentId = patentId;
